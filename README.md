@@ -1,9 +1,9 @@
 # mre-ncc-source-maps
 
-Minimal reproducible example for ncc source maps.
+Minimal reproducible example for ncc source maps + yarn.
 
 ## Steps
 
-1. Install deps: `npm i`
-1. Build it: `npm run build`
-1. Start it: `npm run start`
+1. Install deps: `yarn add`
+1. Build it: `yarn run build`
+1. Start it: `yarn run start`
