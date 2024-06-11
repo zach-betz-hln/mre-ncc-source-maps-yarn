@@ -1,4 +1,4 @@
-# mre-ncc-source-maps
+# mre-ncc-source-maps-yarn
 
 Minimal reproducible example for ncc source maps + yarn.
 
