@@ -1,0 +1,11 @@
+{
+  "name": "mre-ncc-source-maps",
+  "scripts": {
+    "build": "ncc build src/index.ts --source-map --out dist",
+    "start": "node --enable-source-maps dist/index.js"
+  },
+  "dependencies": {
+    "@vercel/ncc": "^0.38.1",
+    "typescript": "^5.4.5"
+  }
+}
